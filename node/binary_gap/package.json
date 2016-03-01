@@ -1,0 +1,14 @@
+{
+  "name": "binary_gap",
+  "version": "1.0.0",
+  "description": "Implementation of codility lesson 1.",
+  "main": "binary_gap.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "author": "Norman Holz",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  }
+}
